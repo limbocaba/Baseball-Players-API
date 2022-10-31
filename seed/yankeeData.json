@@ -2,7 +2,7 @@
   {
     "name": "Alex Rodriguez",
     "battingAverage": ".295",
-    "image": "url.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Alex_Rodriguez_2007-09-29.jpg/1200px-Alex_Rodriguez_2007-09-29.jpg",
     "homeRuns": "696",
     "accolades": ["2003 MVP", "2005 MVP", "2007 MVP", "14 All Star Games", "2 Gold Gloves", "10 Silver Sluggers", "1998 Home Run Derby Winner", "2001 Home Run Derby Winner", "2002 Home Run Derby Winner", "1996 AL Batting Title"],
     "height": "75",
@@ -12,7 +12,7 @@
   {
     "name": "Albert Pujols",
     "battingAverage": ".296",
-    "image": "url.png",
+    "image": "https://media.npr.org/assets/img/2022/09/21/gettyimages-1425757239-7e935672a2d16e337bcdaf80adc872e7e9308597-s1100-c50.jpg",
     "homeRuns": "703",
     "accolades": ["2005 MVP", "2008 MVP", "2009 MVP", "6 Silver Sluggers", "11 All Star Games"],
     "height": "75",
@@ -22,7 +22,7 @@
   {
     "name": "Barry Bonds",
     "battingAverage": ".298",
-    "image": "url.png",
+    "image": "https://s.hdnux.com/photos/01/23/57/62/21953721/4/rawImage.jpg",
     "homeRuns": "762",
     "accolades": ["1990 MVP", "1992 MVP", "1993 MVP", "2001 MVP", "2002 MVP", "2003 MVP", "2004 MVP", "14 All Star Games", "8 Gold Gloves", "1996 Home Run Derby Winner", "73 Home Run Season(2001)"],
     "height": "73",
@@ -32,7 +32,7 @@
   {
     "name": "Miguel Cabrera",
     "battingAverage": ".308",
-    "image": "url.png",
+    "image": "https://media.npr.org/assets/img/2022/04/23/ap22113633967552_custom-9e584b067aed9440995d271bf11136f09cd73333-s1100-c50.jpg",
     "homeRuns": "507",
     "accolades": ["2012 MVP", "2013 MVP", "2012 AL Triple Crown", "2006 Home Run Derby Winner", "2010 Home Run Derby Winner", "7 Silver Sluggers"],
     "height": "79",
@@ -42,7 +42,7 @@
   {
     "name": "Willie Mays",
     "battingAverage": ".301",
-    "image": "url.png",
+    "image": "https://static01.nyt.com/images/2021/05/05/sports/05MLB-MAYS/05MLB-MAYS-mobileMasterAt3x.jpg",
     "homeRuns": "660",
     "accolades": ["Inducted into Baseball Hall of Fame", "24 All Star Games", "1954 MVP", "1965 MVP", "12 Gold Gloves","1951 Rookie of the Year", "1954 NL Batting Title"],
     "height": "70",
@@ -52,7 +52,7 @@
   {
     "name": "Babe Ruth",
     "battingAverage": ".342",
-    "image": "url.png",
+    "image": "https://www.biography.com/.image/t_share/MTgwMTU2NjQxNTU4MTQ0MzQ0/gettyimages-517324714.jpg",
     "homeRuns": "714",
     "accolades": ["Inducted into Baseball Hall of Fame", "2 All Star Games", "1923 MVP", "1924 AL Batting Title", ""],
     "height": "74",
@@ -62,7 +62,7 @@
   {
     "name": "Hank Aaron",
     "battingAverage": ".305",
-    "image": "url.png",
+    "image": "https://cdn.britannica.com/83/5283-050-20357D2B/Hank-Aaron.jpg",
     "homeRuns": "755",
     "accolades": ["Inducted into Baseball Hall of Fame", "25 All Star Games", "1957 MVP", "3 Gold Gloves", "1956 NL Batting Title", "1959 NL Batting Title", "Most RBIS in a single career(2,297)"],
     "height": "72",
@@ -72,7 +72,7 @@
   {
     "name": "David Ortiz",
     "battingAverage": ".286",
-    "image": "url.png",
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3748.png",
     "homeRuns": "541",
     "accolades": ["Inducted into Baseball Hall of Fame", "10 All Star Games", "2013 World Series MVP", "7 Silver Sluggers", "2010 Home Run Derby Winner"],
     "height": "75",
@@ -81,7 +81,7 @@
   },
   { "name": "Derek Jeter",
     "battingAverage": ".310",
-    "image": "url.png",
+    "image": "https://cdn.britannica.com/33/114433-050-E1C0903C/New-York-Yankees-baseball-Derek-Jeter-2007.jpg",
     "homeRuns": "260",
     "accolades": ["Inducted into Baseball Hall of Fame", "14 All Star Games", "5 Gold Gloves", "5 Silver Sluggers", "3,465 Career Hits", "1996 AL Rookie of the Year", "2000 World Series MVP", "2000 All Star Game MVP"],
     "height": "75",
@@ -90,7 +90,7 @@
 },
 { "name": "Roberto Clemente",
 "battingAverage": ".317",
-"image": "url.png",
+"image": "https://www.biography.com/.image/t_share/MTgwMzQzNTc2MjUxNjA2MTY2/gettyimages-50811724.jpg",
 "homeRuns": "240",
 "accolades": ["Inducted into Baseball Hall of Fame", "15 All Star Games", "12 Gold Gloves", "1966 MVP", "3,000 Career Hits", "1961 NL Batting Title", "1964 NL Batting Title", "1965 NL Batting Title", "1967 NL Batting Title", "1971 World Series MVP"],
 "height": "71",
@@ -99,7 +99,7 @@
 },
 { "name": "Ichiro Suzuki",
 "battingAverage": ".311",
-"image": "url.png",
+"image": "https://miro.medium.com/proxy/1*FFJK-qplE9Z6XWeS7huBSg.jpeg",
 "homeRuns": "117",
 "accolades": ["2001 MVP", "10 All Star Games", "10 Gold Gloves", "3 Silver Sluggers", "3,089 Career Hits", "2001 AL Batting Champion", "2004 AL Batting Champion", "2001 AL Rookie of the Year", "2007 All Star Game MVP"],
 "height": "71",
@@ -108,7 +108,7 @@
 },
 { "name": "Lou Gehrig",
 "battingAverage": ".340",
-"image": "url.png",
+"image": "https://www.biography.com/.image/t_share/MTkyMjkwODA0NjM3NjM5OTE2/lou-gehrig-gettyimages-517323858.jpg",
 "homeRuns": "493",
 "accolades": ["Inducted into Baseball Hall of Fame", "7 All Star Games", "2,721 Career Hits", "1927 MVP", "1934 AL Batting Title", "1934 AL Triple Crown", "1936 MVP"],
 "height": "72",
@@ -126,7 +126,7 @@
 },
 { "name": "Ted Williams",
 "battingAverage": ".344",
-"image": "url.png",
+"image": "https://m.media-amazon.com/images/M/MV5BMjIyMzc4YjktNTM1My00ZTZkLTg0NTEtMDgxZDJkNDBlNzZiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
 "homeRuns": "521",
 "accolades": ["Inducted into Baseball Hall of Fame", "19 All Star Games", "1946 AL MVP", "1949 AL MVP", "1941 AL Batting Title", "1942 AL Triple Crown", "1942 AL Batting Title", "1946 AL MVP", "1947 AL Triple Crown", "1947 AL Batting Title", "1948 AL Batting Title", "1949 AL MVP", "1957 AL Batting Title", "1958 AL Batting Title"],
 "height": "75",
@@ -135,11 +135,22 @@
 },
 { "name": "Stan Musial",
 "battingAverage": ".331",
-"image": "url.png",
+"image": "https://redbirdrants.com/wp-content/uploads/getty-images/2020/02/515025580.jpeg",
 "homeRuns": "475",
 "accolades": ["Inducted into Baseball Hall of Fame", "24 All Star Games", "1943 NL MVP", "1943 NL Batting Title", "1946 NL Batting Title", "1946 NL MVP", "1948 NL Batting Title", "1948 NL MVP", "1950 NL Batting Title", "1951 NL Batting Title", "1952 NL Batting Title", "1957 NL Batting Title"],
 "height": "72",
 "weight": "175",
 "battingPosition": "left"
+},
+{
+"name": "Randy Johnson",
+"Career-ERA": "3.29",
+"Wins": "303",
+"height": "82",
+"weight": "225",
+"pitchingHand": "left",
+"accolades": ["10 All Star Games", "Inducted into Baseball Hall of Fame", "1995 AL Cy Young Award", "1999 NL Cy Young", "2000 NL Cy Young", "2001 World Series MVP", "2001 NL Cy Young Award", "2002 NL Triple Crown", "2002 NL Cy Young"] 
+
+
 }
 ]
