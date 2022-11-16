@@ -1,5 +1,7 @@
 ## Baseball Legends API
 
+[Deployed API](https://baseball-players-api-production.up.railway.app/players)
+
 This project was done to create an API of legendary baseball players of all eras and give accurate statistics of their respective careers. With legends who played as far as 110 years ago, to players that just recently retired, this API holds a ton of information on some of the greatest baseball players to walk the earth.
 
 ## How to Use
